@@ -1,0 +1,52 @@
+{
+  "generated_by": "v1.0.0 release fixtures",
+  "timestamp": "2026-03-17T20:51:43.863856+00:00",
+  "source_codebase": "independent reference implementation",
+  "source_git_hash": "82cd32ec0dcbdc0aa3cd9871d16895972b665cf8",
+  "manuscript_authority": "cms_all_results.json",
+  "conventions": {
+    "pooling": "covariance_level",
+    "gating": "absolute_angstrom",
+    "alignment": "squared_dot_nematic",
+    "coordinates": "cartesian_minimum_image",
+    "epsilon_degeneracy": 0.01,
+    "persistence_windows": 2,
+    "persistence_metric": "half_split_A_B",
+    "delta_0_values": [
+      0.05,
+      0.1,
+      0.2
+    ],
+    "eps_trace": 1e-06,
+    "eps_symmetry": 1e-10,
+    "gate_default": 0.2,
+    "classification_thresholds": {
+      "stable": {
+        "A_min": 0.75,
+        "B_min": 0.75
+      },
+      "moderate": {
+        "A_min": 0.55,
+        "B_min": 0.55
+      }
+    }
+  },
+  "class_a_files": [
+    "cfg6_site0_unit_vectors.npz",
+    "cfg6_site_tensors.npz",
+    "cfg6_principal_axes.npz",
+    "cfg8_site_tensors.npz",
+    "cfg8_raw_displacements.npz",
+    "cfg8_persistence_W4.npz",
+    "gating_masks.npz",
+    "degeneracy_flags.json"
+  ],
+  "class_b_files": [
+    "expected_table_s3.json",
+    "expected_table2.json",
+    "expected_table3.json",
+    "expected_key_statistics.json",
+    "expected_persistence_hero.json"
+  ],
+  "class_b_source": "cms_all_results.json"
+}
