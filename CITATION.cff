@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the companion article."
+title: "dirprobe"
+version: "1.0.0"
+date-released: "2026-03-18"
+license: MIT
+repository-code: "https://github.com/nitinbijewar/dirprobe"
+doi: "[DOI]"
+authors:
+  - family-names: Bijewar
+    given-names: Nitin
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Bijewar
+      given-names: Nitin
+  title: "A Reproducible Diagnostic Pipeline for Separating Local Directional Confinement from Inter-Site Coherence in Vector-Valued Trajectory Data"
+  journal: "Computational Materials Science"
+  year: 2026
+  notes: "communicated"
+  doi: "[DOI]"

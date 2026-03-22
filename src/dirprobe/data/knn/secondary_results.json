@@ -1,0 +1,94 @@
+{
+  "S_align": {
+    "config_1": 0.49632173531640716,
+    "config_10": 0.5325149477246635,
+    "config_2": 0.8232335234503483,
+    "config_3": 0.6661768006794142,
+    "config_4": 0.708394262031601,
+    "config_5": 0.6950771013044204,
+    "config_6": 0.983085252213884,
+    "config_7": 0.5548428190217282,
+    "config_8": 0.44676068210439646,
+    "config_9": 0.5288568569702811
+  },
+  "fraction_symmetric": 0.3,
+  "mean_Sij": {
+    "config_1": 0.3192,
+    "config_10": 0.3452,
+    "config_2": 0.6566,
+    "config_3": 0.4638,
+    "config_4": 0.5205,
+    "config_5": 0.4716,
+    "config_6": 0.9625,
+    "config_7": 0.3392,
+    "config_8": 0.2623,
+    "config_9": 0.3259
+  },
+  "mean_alpha_all": 0.4701,
+  "mean_alpha_nonsym": 0.4573,
+  "n_symmetric_per_config": {
+    "config_1": 0,
+    "config_10": 8,
+    "config_2": 8,
+    "config_3": 0,
+    "config_4": 0,
+    "config_5": 0,
+    "config_6": 8,
+    "config_7": 0,
+    "config_8": 0,
+    "config_9": 0
+  },
+  "perm_pvalue": 0.0481,
+  "spearman_p": 0.000542,
+  "spearman_rho": -0.8909,
+  "symmetry_pairs": [
+    {
+      "Dcoh": [
+        0.8077,
+        1.2555
+      ],
+      "pair": [
+        1,
+        8
+      ],
+      "spread": 0.4478,
+      "type": "anti-phase"
+    },
+    {
+      "Dcoh": [
+        0.3763,
+        0.4539
+      ],
+      "pair": [
+        2,
+        10
+      ],
+      "spread": 0.0776,
+      "type": "columnar"
+    },
+    {
+      "Dcoh": [
+        0.5228,
+        1.0158
+      ],
+      "pair": [
+        3,
+        9
+      ],
+      "spread": 0.493,
+      "type": "layered"
+    },
+    {
+      "Dcoh": [
+        0.5618,
+        0.6653
+      ],
+      "pair": [
+        5,
+        7
+      ],
+      "spread": 0.1035,
+      "type": "bent-chain"
+    }
+  ]
+}

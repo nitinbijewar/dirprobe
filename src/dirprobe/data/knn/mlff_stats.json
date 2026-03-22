@@ -1,0 +1,202 @@
+{
+  "config_1": {
+    "n_md_steps": 10000,
+    "n_dft_callbacks": 464,
+    "dft_fraction_pct": 4.64,
+    "status_counts": {
+      "threshold": 352,
+      "critical": 31,
+      "interval": 3246,
+      "learning": 81,
+      "accurate": 6291
+    },
+    "final_rmse": {
+      "step": 9987,
+      "rmse_energy_eV_atom": 0.00063459062,
+      "rmse_force_eV_A": 0.0488503993,
+      "rmse_force_meV_A": 48.8503993,
+      "rmse_energy_meV_atom": 0.63459062,
+      "rmse_stress_kBar": 1.48738306
+    }
+  },
+  "config_2": {
+    "n_md_steps": 10000,
+    "n_dft_callbacks": 407,
+    "dft_fraction_pct": 4.07,
+    "status_counts": {
+      "threshold": 299,
+      "critical": 39,
+      "interval": 2752,
+      "learning": 69,
+      "accurate": 6842
+    },
+    "final_rmse": {
+      "step": 10000,
+      "rmse_energy_eV_atom": 0.000565602705,
+      "rmse_force_eV_A": 0.0492909535,
+      "rmse_force_meV_A": 49.2909535,
+      "rmse_energy_meV_atom": 0.565602705,
+      "rmse_stress_kBar": 1.44570667
+    }
+  },
+  "config_3": {
+    "n_md_steps": 10000,
+    "n_dft_callbacks": 473,
+    "dft_fraction_pct": 4.73,
+    "status_counts": {
+      "threshold": 357,
+      "critical": 32,
+      "interval": 3191,
+      "accurate": 6337,
+      "learning": 84
+    },
+    "final_rmse": {
+      "step": 10000,
+      "rmse_energy_eV_atom": 0.000628067303,
+      "rmse_force_eV_A": 0.0496214919,
+      "rmse_force_meV_A": 49.6214919,
+      "rmse_energy_meV_atom": 0.628067303,
+      "rmse_stress_kBar": 1.51345008
+    }
+  },
+  "config_4": {
+    "n_md_steps": 10000,
+    "n_dft_callbacks": 428,
+    "dft_fraction_pct": 4.28,
+    "status_counts": {
+      "threshold": 314,
+      "critical": 41,
+      "interval": 2846,
+      "learning": 73,
+      "accurate": 6727
+    },
+    "final_rmse": {
+      "step": 10000,
+      "rmse_energy_eV_atom": 0.000692203109,
+      "rmse_force_eV_A": 0.0505546137,
+      "rmse_force_meV_A": 50.5546137,
+      "rmse_energy_meV_atom": 0.6922031089999999,
+      "rmse_stress_kBar": 1.43938591
+    }
+  },
+  "config_5": {
+    "n_md_steps": 10000,
+    "n_dft_callbacks": 455,
+    "dft_fraction_pct": 4.55,
+    "status_counts": {
+      "threshold": 341,
+      "critical": 38,
+      "interval": 3038,
+      "accurate": 6508,
+      "learning": 76
+    },
+    "final_rmse": {
+      "step": 9901,
+      "rmse_energy_eV_atom": 0.00066497342,
+      "rmse_force_eV_A": 0.0511494458,
+      "rmse_force_meV_A": 51.149445799999995,
+      "rmse_energy_meV_atom": 0.6649734199999999,
+      "rmse_stress_kBar": 1.42492193
+    }
+  },
+  "config_6": {
+    "n_md_steps": 10000,
+    "n_dft_callbacks": 412,
+    "dft_fraction_pct": 4.12,
+    "status_counts": {
+      "threshold": 304,
+      "critical": 38,
+      "interval": 2731,
+      "learning": 70,
+      "accurate": 6858
+    },
+    "final_rmse": {
+      "step": 10000,
+      "rmse_energy_eV_atom": 0.000670274701,
+      "rmse_force_eV_A": 0.0504238979,
+      "rmse_force_meV_A": 50.4238979,
+      "rmse_energy_meV_atom": 0.670274701,
+      "rmse_stress_kBar": 1.41558536
+    }
+  },
+  "config_7": {
+    "n_md_steps": 10000,
+    "n_dft_callbacks": 476,
+    "dft_fraction_pct": 4.76,
+    "status_counts": {
+      "threshold": 363,
+      "critical": 28,
+      "interval": 3331,
+      "accurate": 6194,
+      "learning": 85
+    },
+    "final_rmse": {
+      "step": 10000,
+      "rmse_energy_eV_atom": 0.000635453269,
+      "rmse_force_eV_A": 0.0502270608,
+      "rmse_force_meV_A": 50.227060800000004,
+      "rmse_energy_meV_atom": 0.635453269,
+      "rmse_stress_kBar": 1.39038206
+    }
+  },
+  "config_8": {
+    "n_md_steps": 10000,
+    "n_dft_callbacks": 454,
+    "dft_fraction_pct": 4.54,
+    "status_counts": {
+      "threshold": 344,
+      "critical": 33,
+      "interval": 3121,
+      "accurate": 6426,
+      "learning": 77
+    },
+    "final_rmse": {
+      "step": 9999,
+      "rmse_energy_eV_atom": 0.000623478425,
+      "rmse_force_eV_A": 0.0488523599,
+      "rmse_force_meV_A": 48.8523599,
+      "rmse_energy_meV_atom": 0.6234784250000001,
+      "rmse_stress_kBar": 1.31875491
+    }
+  },
+  "config_9": {
+    "n_md_steps": 10000,
+    "n_dft_callbacks": 410,
+    "dft_fraction_pct": 4.1,
+    "status_counts": {
+      "threshold": 305,
+      "critical": 33,
+      "interval": 2803,
+      "learning": 72,
+      "accurate": 6788
+    },
+    "final_rmse": {
+      "step": 9995,
+      "rmse_energy_eV_atom": 0.000672342894,
+      "rmse_force_eV_A": 0.0526880812,
+      "rmse_force_meV_A": 52.6880812,
+      "rmse_energy_meV_atom": 0.672342894,
+      "rmse_stress_kBar": 1.46105015
+    }
+  },
+  "config_10": {
+    "n_md_steps": 10000,
+    "n_dft_callbacks": 401,
+    "dft_fraction_pct": 4.01,
+    "status_counts": {
+      "threshold": 297,
+      "critical": 36,
+      "interval": 2752,
+      "learning": 68,
+      "accurate": 6848
+    },
+    "final_rmse": {
+      "step": 10000,
+      "rmse_energy_eV_atom": 0.000686705143,
+      "rmse_force_eV_A": 0.0501831133,
+      "rmse_force_meV_A": 50.183113299999995,
+      "rmse_energy_meV_atom": 0.686705143,
+      "rmse_stress_kBar": 1.40563744
+    }
+  }
+}

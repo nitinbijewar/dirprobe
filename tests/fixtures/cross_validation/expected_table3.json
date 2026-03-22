@@ -1,0 +1,86 @@
+[
+  {
+    "system": "G",
+    "control_parameter": "rate=0 (static)",
+    "A_mean": "0.999972",
+    "B_mean": "0.999988",
+    "classification": "LOCKED"
+  },
+  {
+    "system": "H (rate=0.0001)",
+    "control_parameter": "0.0001",
+    "A_mean": "0.833620",
+    "B_mean": "0.879514",
+    "classification": "LOCKED"
+  },
+  {
+    "system": "H (rate=0.0005)",
+    "control_parameter": "0.0005",
+    "A_mean": "0.615056",
+    "B_mean": "0.733962",
+    "classification": "SWITCHING"
+  },
+  {
+    "system": "H (rate=0.001)",
+    "control_parameter": "0.001",
+    "A_mean": "0.554114",
+    "B_mean": "0.694562",
+    "classification": "SWITCHING"
+  },
+  {
+    "system": "H (rate=0.003)",
+    "control_parameter": "0.003",
+    "A_mean": "0.337054",
+    "B_mean": "0.675709",
+    "classification": "FAST"
+  },
+  {
+    "system": "H (rate=0.008)",
+    "control_parameter": "0.008",
+    "A_mean": "0.257171",
+    "B_mean": "0.619450",
+    "classification": "FAST"
+  },
+  {
+    "system": "H (rate=0.02)",
+    "control_parameter": "0.02",
+    "A_mean": "0.192599",
+    "B_mean": "0.700488",
+    "classification": "FAST"
+  },
+  {
+    "system": "I (drift=5e-05)",
+    "control_parameter": "5e-05",
+    "A_mean": "0.993467",
+    "B_mean": "0.991866",
+    "classification": "LOCKED"
+  },
+  {
+    "system": "I (drift=0.0001)",
+    "control_parameter": "0.0001",
+    "A_mean": "0.958328",
+    "B_mean": "0.948958",
+    "classification": "LOCKED"
+  },
+  {
+    "system": "I (drift=0.0002)",
+    "control_parameter": "0.0002",
+    "A_mean": "0.844155",
+    "B_mean": "0.821590",
+    "classification": "LOCKED"
+  },
+  {
+    "system": "I (drift=0.0005)",
+    "control_parameter": "0.0005",
+    "A_mean": "0.420632",
+    "B_mean": "0.672701",
+    "classification": "SWITCHING"
+  },
+  {
+    "system": "I (drift=0.001)",
+    "control_parameter": "0.001",
+    "A_mean": "0.320547",
+    "B_mean": "0.708398",
+    "classification": "FAST"
+  }
+]

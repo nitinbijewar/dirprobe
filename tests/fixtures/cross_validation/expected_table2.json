@@ -1,0 +1,128 @@
+[
+  {
+    "system": "A",
+    "description": "Isotropic (uniform on S\u00b2)",
+    "D_dir_expected": "3.00",
+    "D_dir_measured": "2.9995",
+    "D_dir_pooled": "2.9999",
+    "Delta_coh": "0.000419",
+    "robust": "ROBUST"
+  },
+  {
+    "system": "B",
+    "description": "Uniaxial (vMF \u03ba=50, all axes aligned)",
+    "D_dir_expected": "1.08",
+    "D_dir_measured": "1.0817",
+    "D_dir_pooled": "1.0817",
+    "Delta_coh": "0.000006",
+    "robust": "ROBUST"
+  },
+  {
+    "system": "C",
+    "description": "Planar (biaxial, same plane)",
+    "D_dir_expected": "2.00",
+    "D_dir_measured": "2.0014",
+    "D_dir_pooled": "2.0016",
+    "Delta_coh": "0.000201",
+    "robust": "ROBUST"
+  },
+  {
+    "system": "D",
+    "description": "Incoherent (cube vertices, \u03ba=50)",
+    "D_dir_expected": "~1.08 site / ~3.00 pooled",
+    "D_dir_measured": "1.0819",
+    "D_dir_pooled": "3.0000",
+    "Delta_coh": "1.918121",
+    "robust": "ROBUST"
+  },
+  {
+    "system": "E",
+    "description": "Interpolation (tunable inter-site \u03ba)",
+    "D_dir_expected": "~1.08 site",
+    "D_dir_measured": "1.0822",
+    "D_dir_pooled": "2.2392",
+    "Delta_coh": "1.156992",
+    "robust": "ROBUST"
+  },
+  {
+    "system": "F",
+    "description": "Mixed \u03ba (20/50/100 on cube vertices)",
+    "D_dir_expected": "~1.10 site",
+    "D_dir_measured": "1.1004",
+    "D_dir_pooled": "2.9993",
+    "Delta_coh": "1.898861",
+    "robust": "ROBUST"
+  },
+  {
+    "system": "G",
+    "description": "Static locked axes (rate=0 anchor)",
+    "D_dir_expected": "~1.08 site / ~3.00 pooled",
+    "D_dir_measured": "1.0830",
+    "D_dir_pooled": "3.0000",
+    "Delta_coh": "1.916956",
+    "robust": "ROBUST"
+  },
+  {
+    "system": "H",
+    "description": "Axis switching (rate-controlled)",
+    "D_dir_expected": "varies with rate",
+    "D_dir_measured": "2.1570",
+    "D_dir_pooled": "2.8799",
+    "Delta_coh": "0.722917",
+    "robust": "ROBUST"
+  },
+  {
+    "system": "I",
+    "description": "Axis drift (continuous rotation)",
+    "D_dir_expected": "varies with drift",
+    "D_dir_measured": "1.5305",
+    "D_dir_pooled": "2.9081",
+    "Delta_coh": "1.377619",
+    "robust": "ROBUST"
+  },
+  {
+    "system": "J",
+    "description": "Mixed confinement (per-site D_dir varies)",
+    "D_dir_expected": "mixed",
+    "D_dir_measured": "1.5251",
+    "D_dir_pooled": "2.6968",
+    "Delta_coh": "1.171708",
+    "robust": "ROBUST"
+  },
+  {
+    "system": "K",
+    "description": "Near-isotropic (high D_dir, low \u0394_coh)",
+    "D_dir_expected": "~3.00",
+    "D_dir_measured": "2.9978",
+    "D_dir_pooled": "2.9983",
+    "Delta_coh": "0.000446",
+    "robust": "ROBUST"
+  },
+  {
+    "system": "L",
+    "description": "Finite-size test (N=4,8,16,64)",
+    "D_dir_expected": "~1.08 site",
+    "D_dir_measured": "1.0822",
+    "D_dir_pooled": "2.9544",
+    "Delta_coh": "1.872260",
+    "robust": "ROBUST"
+  },
+  {
+    "system": "M",
+    "description": "Gating-sensitive (low amplitude)",
+    "D_dir_expected": "~1.08",
+    "D_dir_measured": "1.0820",
+    "D_dir_pooled": "1.0821",
+    "Delta_coh": "0.000062",
+    "robust": "SENSITIVE"
+  },
+  {
+    "system": "N",
+    "description": "Temporally unstable (high CV)",
+    "D_dir_expected": "~2.08",
+    "D_dir_measured": "2.0794",
+    "D_dir_pooled": "2.0794",
+    "Delta_coh": "0.000014",
+    "robust": "SENSITIVE"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "title": "dirprobe: Directional Probe Analysis for Off-Centring Displacements in Perovskites",
+  "description": "Companion code for: N. Bijewar, A Reproducible Diagnostic Pipeline for Separating Local Directional Confinement from Inter-Site Coherence in Vector-Valued Trajectory Data, communicated to Computational Materials Science.",
+  "creators": [
+    {
+      "name": "Bijewar, Nitin",
+      "orcid": "0000-0000-0000-0000"
+    }
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "[DOI]",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article"
+    }
+  ],
+  "keywords": [
+    "perovskite",
+    "off-centring",
+    "directional analysis",
+    "covariance tensor",
+    "molecular dynamics"
+  ],
+  "version": "1.0.0"
+}
